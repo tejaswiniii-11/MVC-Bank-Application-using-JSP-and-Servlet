@@ -1,10 +1,5 @@
 # MVC-Bank-Application-using-JSP-and-Servlet
 
-Perfect 👍
-Here’s a professional **README.md** you can directly add to your GitHub repository for your banking application:
-
----
-
 ```markdown
 # 🏦 Tej Bank - Online Banking Application
 
