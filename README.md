@@ -36,15 +36,7 @@ The application provides core banking functionalities such as account management
 
 ---
 
-## 📂 Project Structure
 
-```
-
-<img width="449" height="183" alt="image" src="https://github.com/user-attachments/assets/630b11e9-97f9-4505-a668-98b0ff99ff38" />
-
-````
-
----
 
 ## ⚙️ Installation & Setup
 
