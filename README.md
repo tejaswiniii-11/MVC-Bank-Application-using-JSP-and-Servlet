@@ -45,17 +45,7 @@ The application provides core banking functionalities such as account management
 
 ```
 
-BankingApplication/
-│── src/main/java/com/aurionpro/
-│   ├── model/           # POJO classes (Customer, Account, Transaction, etc.)
-│   ├── dao/             # DAO classes for DB operations
-│   ├── servlet/         # Servlet classes (LoginServlet, ViewPassbookServlet, etc.)
-│── WebContent/
-│   ├── jsp/             # JSP pages (customerDashboard.jsp, makePayment.jsp, etc.)
-│   ├── css/             # Custom CSS (if any)
-│── database/
-│   └── schema.sql       # MySQL schema & table creation
-│── README.md
+<img width="449" height="183" alt="image" src="https://github.com/user-attachments/assets/630b11e9-97f9-4505-a668-98b0ff99ff38" />
 
 ````
 
@@ -100,6 +90,43 @@ BankingApplication/
 ---
 
 ## 📸 Screenshots
+
+<img width="956" height="526" alt="image" src="https://github.com/user-attachments/assets/b421e237-5200-4471-bc40-c8519d90fed5" />
+
+<img width="953" height="530" alt="image" src="https://github.com/user-attachments/assets/c855ee23-1296-425c-8fa0-5e1db8187fca" />
+
+<img width="958" height="554" alt="image" src="https://github.com/user-attachments/assets/60343e8f-cf5b-4a5b-9937-a5cfe545abc0" />
+
+<img width="958" height="526" alt="image" src="https://github.com/user-attachments/assets/66e3615e-2301-4aa3-b8c0-85ac83911413" />
+
+<img width="956" height="519" alt="image" src="https://github.com/user-attachments/assets/adeb13ca-e1b1-4b5f-a19e-fb267a718e0b" />
+
+<img width="959" height="526" alt="image" src="https://github.com/user-attachments/assets/9e3ffb97-516e-4ae4-9584-1eee98049bef" />
+
+<img width="958" height="528" alt="image" src="https://github.com/user-attachments/assets/71a1d298-a3d1-4ad5-9592-b6b426e30781" />
+
+<img width="959" height="529" alt="image" src="https://github.com/user-attachments/assets/24726ee5-13d8-411e-9425-b4b2e9add8f9" />
+
+<img width="959" height="508" alt="image" src="https://github.com/user-attachments/assets/98be792e-a3a5-4178-848e-30c4a364cc7f" />
+
+<img width="950" height="532" alt="image" src="https://github.com/user-attachments/assets/7fabe2e4-61d7-438e-b6db-491f86a3c0a8" />
+
+<img width="957" height="535" alt="image" src="https://github.com/user-attachments/assets/05621ae0-f42c-485c-ae92-17d2d72f341b" />
+
+<img width="957" height="532" alt="image" src="https://github.com/user-attachments/assets/58415382-ca82-46ea-9634-3d123192ef61" />
+
+<img width="956" height="535" alt="image" src="https://github.com/user-attachments/assets/f6f2da9c-0dab-4650-b573-7203f2bc3d52" />
+
+<img width="956" height="524" alt="image" src="https://github.com/user-attachments/assets/c4aabd5a-515d-4c45-b9e7-21c5d2e50068" />
+
+<img width="952" height="521" alt="image" src="https://github.com/user-attachments/assets/e9470ebb-89aa-48e8-84e8-d3b076db7cf3" />
+
+<img width="959" height="521" alt="image" src="https://github.com/user-attachments/assets/2def5dc3-99d5-4585-9d3f-f0bfd8170c78" />
+
+<img width="958" height="517" alt="image" src="https://github.com/user-attachments/assets/254ade59-6157-49d6-a4b6-c4f0f16e27b3" />
+
+<img width="959" height="521" alt="image" src="https://github.com/user-attachments/assets/82e948bf-9509-4888-a614-1676a9a1d39e" />
+
 
 
 
