@@ -150,9 +150,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
----
-
-👉 This README has all sections: **intro, features, tech stack, setup guide, project structure, screenshots, security, future scope, contributing, license**.  
-
-Do you want me to also prepare a **`schema.sql`** file (with all table creation queries like `customers`, `accounts`, `transactions`, etc.) so you can put it in your `database/` folder and link it in the README?
-```
