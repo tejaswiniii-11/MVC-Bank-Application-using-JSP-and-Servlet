@@ -8,7 +8,7 @@ public class DBConnection {
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/tej_bank"; 
     private static final String DB_USER = "root";  
-    private static final String DB_PASS = "#Teju@2003"; 
+    private static final String DB_PASS = "#########"; 
 
    
     public static Connection getConnection() throws SQLException {
@@ -21,3 +21,4 @@ public class DBConnection {
         }
     }
 }
+
